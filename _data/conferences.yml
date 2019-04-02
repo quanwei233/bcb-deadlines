@@ -1,50 +1,6 @@
 
 ---
 
-- title: MICRO
-  year: 2019
-  id: micro52
-  link: https://www.microarch.org/micro52/
-  deadline: '2019-03-29 16:59:59'
-  timezone: Etc/GMT+8
-  date: October 12-16, 2019
-  place: Columbus, Ohio, USA
-  sub: CA
-  note: <b>Call for Papers:</b> <a href='https://www.microarch.org/micro52/docs/cfp.pdf'>PDF</a>.
-
-- title: ITSC
-  year: 2019
-  id: itsc2019
-  link: https://www.itsc2019.org/
-  deadline: '2019-03-31 23:59:00'
-  timezone: Etc/GMT
-  date: October 27-30, 2019
-  place: Auckland, New Zealand
-  sub: CV
-  note: <b>Call for Papers:</b> <a href='https://www.itsc2019.org/call-for-papers'>HTML</a>.
-
-- title: ICCAD
-  year: 2019
-  id: iccad19
-  link: https://www.iccad.com/
-  deadline: '2019-04-01 23:59:00'
-  timezone: Etc/GMT
-  date: November 4-7, 2019
-  place: Westminster, USA
-  sub: CA
-  note: <b>Call for Papers:</b> <a href='https://www.iccad.com/2019_call_for_papers'>HTML</a>.
-
-- title: DSD
-  year: 2019
-  id: dsd2019
-  link: http://dsd-seaa2019.csd.auth.gr/dsd/index.html
-  deadline: '2019-04-01 23:59:59'
-  timezone: Etc/GMT+2
-  date: August 28-30, 2019
-  place: Kallithea, Chalkidiki, Greece
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='http://dsd-seaa2019.csd.auth.gr/dsd/CfP.pdf'>PDF</a>.
-
 - title: CASES
   year: 2019
   id: cases2019
@@ -121,6 +77,16 @@
   place: Singapore
   sub: ES
   note: <b>Call for Papers:</b> <a href='http://mcsoc-forum.org/m2019/wp-content/uploads/2018/11/MCSOC2019-CFP.pdf'>PDF</a>.
+
+- title: LPIRC
+  year: 2019
+  id: lpirc19
+  link: https://rebootingcomputing.ieee.org/lpirc
+  deadline: '2019-04-30 23:59:59'
+  timezone: Etc/GMT+8
+  date: June 17, 2019
+  place: Long Beach, California, USA
+  sub: CV
 
 - title: ICCVE
   year: 2019
@@ -329,6 +295,50 @@
   place: Seoul, Korea
   sub: CV
   note: <b>Call for Papers:</b> <a href='http://iccv2019.thecvf.com/submission/main_conference/author_guidelines'>HTML</a>.
+
+- title: MICRO
+  year: 2019
+  id: micro52
+  link: https://www.microarch.org/micro52/
+  deadline: '2019-03-29 16:59:59'
+  timezone: Etc/GMT+8
+  date: October 12-16, 2019
+  place: Columbus, Ohio, USA
+  sub: CA
+  note: <b>Call for Papers:</b> <a href='https://www.microarch.org/micro52/docs/cfp.pdf'>PDF</a>.
+
+- title: ITSC
+  year: 2019
+  id: itsc2019
+  link: https://www.itsc2019.org/
+  deadline: '2019-03-31 23:59:00'
+  timezone: Etc/GMT
+  date: October 27-30, 2019
+  place: Auckland, New Zealand
+  sub: CV
+  note: <b>Call for Papers:</b> <a href='https://www.itsc2019.org/call-for-papers'>HTML</a>.
+
+- title: ICCAD
+  year: 2019
+  id: iccad19
+  link: https://www.iccad.com/
+  deadline: '2019-04-01 23:59:00'
+  timezone: Etc/GMT
+  date: November 4-7, 2019
+  place: Westminster, USA
+  sub: CA
+  note: <b>Call for Papers:</b> <a href='https://www.iccad.com/2019_call_for_papers'>HTML</a>.
+
+- title: DSD
+  year: 2019
+  id: dsd2019
+  link: http://dsd-seaa2019.csd.auth.gr/dsd/index.html
+  deadline: '2019-04-01 23:59:59'
+  timezone: Etc/GMT+2
+  date: August 28-30, 2019
+  place: Kallithea, Chalkidiki, Greece
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='http://dsd-seaa2019.csd.auth.gr/dsd/CfP.pdf'>PDF</a>.
 
 - title: DAC
   year: 2020
