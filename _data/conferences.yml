@@ -1,17 +1,6 @@
 
 ---
 
-- title: Tagung Automatisiertes Fahren
-  year: 2019
-  id: tuv2019
-  link: https://www.tuev-sued.de/akademie-de/congress/automobil-bahn/automatisiertes-fahren
-  deadline: '2019-04-12 23:59:59'
-  timezone: Etc/GMT+2
-  date: November 21-22, 2019
-  place: Munich, Germany
-  sub: CV
-  note: <b>Call for Papers:</b> <a href='https://www.tuev-sued.de/uploads/images/1549883812393523030668/tagung-automatisiertes-fahren-2019-call-for-papers.pdf'>PDF</a>.
-
 - title: WCET
   year: 2019
   id: wcet19
@@ -65,17 +54,6 @@
   date: June 17, 2019
   place: Long Beach, California, USA
   sub: CV
-
-- title: ICCVE
-  year: 2019
-  id: iccve19
-  link: https://iccve2019.com/
-  deadline: '2019-05-05 23:59:00'
-  timezone: Etc/GMT
-  date: November 4-8, 2019
-  place: Graz, Austria
-  sub: CV
-  note: <b>Call for Papers:</b> <a href='https://iccve2019.com/sites/default/files/documents/call-docs/iccve2019-cfp_v10.pdf'>PDF</a>.
 
 - title: RTSS
   year: 2019
@@ -143,17 +121,6 @@
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://asplos-conference.org/wp-content/uploads/2018/05/asplos19-cfp.pdf'>PDF</a>.
 
-- title: CPS-IoT
-  year: 2019
-  id: cpsiot19
-  link: http://cpslab.cs.mcgill.ca/cpsiotweek2019/
-  deadline: '2018-10-17 23:59:00'
-  timezone: Etc/GMT
-  date: April 15-18, 2019
-  place: Montreal, Canada
-  sub: ES
-  note: null
-
 - title: CVPR
   year: 2019
   id: cvpr19
@@ -197,17 +164,6 @@
   sub: ES
   note: <b>Call for Contributions:</b> <a href='http://lists.llvm.org/pipermail/llvm-dev/2019-January/129091.html'>HTML</a>.
 
-- title: IV
-  year: 2019
-  id: iv19
-  link: http://iv2019.org/
-  deadline: '2019-01-31 23:59:00'
-  timezone: Etc/GMT
-  date: June 9-12, 2019
-  place: Paris, France
-  sub: CV
-  note: <b>Call for Papers:</b> <a href='http://iv2019.org/call-for-paper/'>HTML</a>.
-
 - title: ECRTS
   year: 2019
   id: ecrts19
@@ -229,17 +185,6 @@
   place: Kaiserslautern, Germany
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://www.vde.com/resource/blob/1779944/9b060fa6f02c8e857f48ff5045cce8cb/call-for-papers-data.pdf'>PDF</a>.
-
-- title: SeFuMal
-  year: 2019
-  id: sefumal2019
-  link: https://sites.google.com/site/sefumalworkshop/home
-  deadline: '2019-02-15 23:59:59'
-  timezone: Etc/GMT-1
-  date: Apr 30-May 2, 2019
-  place: Alghero, Italy
-  sub: CV
-  note: <b>Call for Papers:</b> <a href='http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=84155'>HTML</a>.
 
 - title: SCOPES
   year: 2019
@@ -295,17 +240,6 @@
   place: Columbus, Ohio, USA
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://www.microarch.org/micro52/docs/cfp.pdf'>PDF</a>.
-
-- title: ITSC
-  year: 2019
-  id: itsc2019
-  link: https://www.itsc2019.org/
-  deadline: '2019-03-31 23:59:00'
-  timezone: Etc/GMT
-  date: October 27-30, 2019
-  place: Auckland, New Zealand
-  sub: CV
-  note: <b>Call for Papers:</b> <a href='https://www.itsc2019.org/call-for-papers'>HTML</a>.
 
 - title: ICCAD
   year: 2019
