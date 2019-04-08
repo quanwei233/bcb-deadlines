@@ -1,7 +1,9 @@
 ---
-- name: Embedded Systems
-  sub: ES 
+- name: Embedded Systems (General)
+  sub: ES
+- name: Timing Analysis
+  sub: TA
 - name: Computer Architecture
   sub: CA
-- name: Computer Vision
-  sub: CV
+- name: Low Power
+  sub: LP

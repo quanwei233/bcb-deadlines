@@ -9,7 +9,7 @@
   timezone: Etc/GMT
   date: July 9-12, 2019
   place: Stuttgart, Germany
-  sub: ES
+  sub: TA
   note: <b>Call for Papers:</b> <a href='https://www.ecrts.org/wcet/wcet-call-for-papers/'>HTML</a>.
 
 - title: WATERS
@@ -20,7 +20,7 @@
   timezone: Etc/GMT
   date: July 9-12, 2019
   place: Stuttgart, Germany
-  sub: ES
+  sub: TA
   note: <b>Call for Papers:</b> <a href='https://www.ecrts.org/waters/waters-call-for-contributions/'>HTML</a>.
 
 - title: FDL
@@ -31,7 +31,7 @@
   timezone: Etc/GMT
   date: September 2-4, 2019
   place: Southampton, UK
-  sub: CA
+  sub: ES
   note: <b>Call for Papers:</b> <a href='http://fdl-conference.org/submission.html#call4paper'>HTML</a>.
 
 - title: MCSoC
@@ -42,7 +42,7 @@
   timezone: Etc/GMT
   date: October 1-4, 2019
   place: Singapore
-  sub: ES
+  sub: CA
   note: <b>Call for Papers:</b> <a href='http://mcsoc-forum.org/m2019/wp-content/uploads/2018/11/MCSOC2019-CFP.pdf'>PDF</a>.
 
 - title: LPIRC
@@ -53,7 +53,7 @@
   timezone: Etc/GMT+8
   date: June 17, 2019
   place: Long Beach, California, USA
-  sub: CV
+  sub: LP
 
 - title: RTSS
   year: 2019
@@ -63,7 +63,7 @@
   timezone: Etc/GMT
   date: December 3-6, 2019
   place: Hong Kong, China
-  sub: ES
+  sub: TA
   note: null
 
 - title: ICCD
@@ -74,7 +74,7 @@
   timezone: Etc/GMT-12
   date: Nov 17-20, 2019
   place: Abu Dhabi, United Arab Emirates
-  sub: ES
+  sub: CA
   note: <b>Call for Papers:</b> <a href='https://www.iccd-conf.com/Call_for_papers.html'>HTML</a>.
 
 - title: SAMOS
@@ -96,7 +96,7 @@
   timezone: Etc/GMT-1
   date: Jan 21-23, 2019
   place: Valencia, Spain
-  sub: CA
+  sub: ES
   note: <b>Call for Papers:</b> <a href='http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=74246'>HTML</a>.
 
 - title: HPCA
@@ -120,16 +120,6 @@
   place: Providence, RI, USA
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://asplos-conference.org/wp-content/uploads/2018/05/asplos19-cfp.pdf'>PDF</a>.
-
-- title: CVPR
-  year: 2019
-  id: cvpr19
-  link: http://cvpr2019.thecvf.com/
-  deadline: '2018-11-16 23:59:59'
-  timezone: America/Los_Angeles
-  date: June 16-21, 2019
-  place: Long Beach, USA
-  sub: CV
 
 - title: ISCA
   year: 2019
@@ -172,7 +162,7 @@
   timezone: Etc/GMT
   date: July 9-12, 2019
   place: Stuttgart, Germany
-  sub: ES
+  sub: TA
   note: <b>Call for Papers:</b> <a href='https://www.ecrts.org/call-for-papers/'>HTML</a>.
 
 - title: MBMV
@@ -194,7 +184,7 @@
   timezone: Etc/GMT
   date: May 27-28, 2019
   place: Sankt Goar, Germany
-  sub: CA
+  sub: ES
   note: <b>Call for Papers:</b> <a href='https://www.scopesconf.org/scopes-19/cfp.php'>HTML</a>.
 
 - title: LCTES
@@ -216,19 +206,8 @@
   timezone: Etc/GMT+7
   date: July 29-31, 2019
   place: Lausanne, Switzerland
-  sub: ES
+  sub: LP
   note: <b>Call for Papers:</b> <a href='https://www.islped.org/2019/files/ISLPED2019_CFP_Feb22_2019.pdf'>PDF</a>.
-
-- title: ICCV
-  year: 2019
-  id: iccv19
-  link: http://iccv2019.thecvf.com/
-  deadline: '2019-03-22 23:59:00'
-  timezone: Etc/GMT
-  date: October 27 - November 3, 2019
-  place: Seoul, Korea
-  sub: CV
-  note: <b>Call for Papers:</b> <a href='http://iccv2019.thecvf.com/submission/main_conference/author_guidelines'>HTML</a>.
 
 - title: MICRO
   year: 2019
@@ -249,7 +228,7 @@
   timezone: Etc/GMT
   date: November 4-7, 2019
   place: Westminster, USA
-  sub: CA
+  sub: ES
   note: <b>Call for Papers:</b> <a href='https://www.iccad.com/2019_call_for_papers'>HTML</a>.
 
 - title: DSD
@@ -284,36 +263,3 @@
   place: New York City, NY, USA
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://esweek.org/sites/default/files/CODES%2BISSS-2019-CFP.pdf'>PDF</a>.
-
-- title: DAC
-  year: 2020
-  id: dac20
-  link: https://www.dac.com/
-  deadline: tba
-  timezone: Etc/GMT
-  date: tba
-  place: tba
-  sub: CA
-  note: tba
-
-- title: DATE
-  year: 2020
-  id: date20
-  link: https://www.date-conference.com/
-  deadline: tba
-  timezone: Etc/GMT
-  date: tba
-  place: tba
-  sub: ES
-  note: tba
-
-- title: ASP-DAC
-  year: 2020
-  id: aspdac20
-  link: http://www.aspdac.com/
-  deadline: tba
-  timezone: Etc/GMT
-  date: tba
-  place: tba
-  sub: CA
-  note: tba
