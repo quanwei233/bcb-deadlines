@@ -1,81 +1,5 @@
 
 ---
-- title: ISLPED
-  year: 2019
-  id: islped2019
-  link: https://www.islped.org/2019/
-  deadline: '2019-03-09 23:59:59'
-  timezone: PST/GMT+7
-  date: July 29-31, 2019
-  place: Lausanne, Switzerland
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://www.islped.org/2019/files/ISLPED2019_CFP_Feb22_2019.pdf'>PDF</a>.
-  
-- title: MICRO
-  year: 2019
-  id: micro52
-  link: https://www.microarch.org/micro52/
-  deadline: '2019-03-29 16:59:59'
-  timezone: Etc/GMT+8
-  date: October 12-16, 2019
-  place: Columbus, Ohio, USA
-  sub: CA
-  note: <b>Call for Papers:</b> <a href='https://www.microarch.org/micro52/docs/cfp.pdf'>PDF</a>.
-
-- title: ITSC
-  year: 2019
-  id: itsc2019
-  link: https://www.itsc2019.org/
-  deadline: '2019-03-31 23:59:00'
-  timezone: Etc/GMT
-  date: October 27-30, 2019
-  place: Auckland, New Zealand
-  sub: CV
-  note: <b>Call for Papers:</b> <a href='https://www.itsc2019.org/call-for-papers'>HTML</a>.
-
-- title: ICCAD
-  year: 2019
-  id: iccad19
-  link: https://www.iccad.com/
-  deadline: '2019-04-01 23:59:00'
-  timezone: Etc/GMT
-  date: November 4-7, 2019
-  place: Westminster, USA
-  sub: CA
-  note: <b>Call for Papers:</b> <a href='https://www.iccad.com/2019_call_for_papers'>HTML</a>.
-
-- title: DSD
-  year: 2019
-  id: dsd2019
-  link: http://dsd-seaa2019.csd.auth.gr/dsd/index.html
-  deadline: '2019-04-01 23:59:59'
-  timezone: Etc/GMT+2
-  date: August 28-30, 2019
-  place: Kallithea, Chalkidiki, Greece
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='http://dsd-seaa2019.csd.auth.gr/dsd/CfP.pdf'>PDF</a>.
-
-- title: CASES
-  year: 2019
-  id: cases2019
-  link: https://www.esweek.org/cases/about
-  deadline: '2019-04-05 23:59:59'
-  timezone: Etc/GMT+5
-  date: Oct 13-18, 2019
-  place: New York City, NY, USA
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://esweek.org/sites/default/files/2019-CASES-cfp_0.pdf'>PDF</a>.
-
-- title: CODES+ISSS
-  year: 2019
-  id: codesisss2019
-  link: https://www.esweek.org/codes/about
-  deadline: '2019-04-05 23:59:59'
-  timezone: Etc/GMT+5
-  date: Oct 13-18, 2019
-  place: New York City, NY, USA
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://esweek.org/sites/default/files/CODES%2BISSS-2019-CFP.pdf'>PDF</a>.
 
 - title: Tagung Automatisiertes Fahren
   year: 2019
@@ -329,6 +253,17 @@
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://conf.researchr.org/home/LCTES-2019#Call-for-Papers'>HTML</a>.
 
+- title: ISLPED
+  year: 2019
+  id: islped2019
+  link: https://www.islped.org/2019/
+  deadline: '2019-03-09 23:59:59'
+  timezone: Etc/GMT+7
+  date: July 29-31, 2019
+  place: Lausanne, Switzerland
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://www.islped.org/2019/files/ISLPED2019_CFP_Feb22_2019.pdf'>PDF</a>.
+
 - title: ICCV
   year: 2019
   id: iccv19
@@ -339,6 +274,72 @@
   place: Seoul, Korea
   sub: CV
   note: <b>Call for Papers:</b> <a href='http://iccv2019.thecvf.com/submission/main_conference/author_guidelines'>HTML</a>.
+
+- title: MICRO
+  year: 2019
+  id: micro52
+  link: https://www.microarch.org/micro52/
+  deadline: '2019-03-29 16:59:59'
+  timezone: Etc/GMT+8
+  date: October 12-16, 2019
+  place: Columbus, Ohio, USA
+  sub: CA
+  note: <b>Call for Papers:</b> <a href='https://www.microarch.org/micro52/docs/cfp.pdf'>PDF</a>.
+
+- title: ITSC
+  year: 2019
+  id: itsc2019
+  link: https://www.itsc2019.org/
+  deadline: '2019-03-31 23:59:00'
+  timezone: Etc/GMT
+  date: October 27-30, 2019
+  place: Auckland, New Zealand
+  sub: CV
+  note: <b>Call for Papers:</b> <a href='https://www.itsc2019.org/call-for-papers'>HTML</a>.
+
+- title: ICCAD
+  year: 2019
+  id: iccad19
+  link: https://www.iccad.com/
+  deadline: '2019-04-01 23:59:00'
+  timezone: Etc/GMT
+  date: November 4-7, 2019
+  place: Westminster, USA
+  sub: CA
+  note: <b>Call for Papers:</b> <a href='https://www.iccad.com/2019_call_for_papers'>HTML</a>.
+
+- title: DSD
+  year: 2019
+  id: dsd2019
+  link: http://dsd-seaa2019.csd.auth.gr/dsd/index.html
+  deadline: '2019-04-01 23:59:59'
+  timezone: Etc/GMT+2
+  date: August 28-30, 2019
+  place: Kallithea, Chalkidiki, Greece
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='http://dsd-seaa2019.csd.auth.gr/dsd/CfP.pdf'>PDF</a>.
+
+- title: CASES
+  year: 2019
+  id: cases2019
+  link: https://www.esweek.org/cases/about
+  deadline: '2019-04-05 23:59:59'
+  timezone: Etc/GMT+5
+  date: Oct 13-18, 2019
+  place: New York City, NY, USA
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://esweek.org/sites/default/files/2019-CASES-cfp_0.pdf'>PDF</a>.
+
+- title: CODES+ISSS
+  year: 2019
+  id: codesisss2019
+  link: https://www.esweek.org/codes/about
+  deadline: '2019-04-05 23:59:59'
+  timezone: Etc/GMT+5
+  date: Oct 13-18, 2019
+  place: New York City, NY, USA
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://esweek.org/sites/default/files/CODES%2BISSS-2019-CFP.pdf'>PDF</a>.
 
 - title: DAC
   year: 2020
