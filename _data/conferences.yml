@@ -1,6 +1,3 @@
-
----
-
 - title: Tagung Automatisiertes Fahren
   year: 2019
   id: tuv2019
@@ -55,6 +52,16 @@
   place: Singapore
   sub: ES
   note: <b>Call for Papers:</b> <a href='http://mcsoc-forum.org/m2019/wp-content/uploads/2018/11/MCSOC2019-CFP.pdf'>PDF</a>.
+
+- title: LPIRC
+  year: 2019
+  id: lpirc19
+  link: https://rebootingcomputing.ieee.org/lpirc
+  deadline: '2019-04-30 23:59:59'
+  timezone: Etc/GMT+8
+  date: June 17, 2019
+  place: Long Beach, California, USA
+  sub: CV
 
 - title: ICCVE
   year: 2019
