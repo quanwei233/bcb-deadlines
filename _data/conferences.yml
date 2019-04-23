@@ -43,7 +43,7 @@
   date: Jan 20-22, 2020
   place: Bologna, Italy
   sub: ES
-  note: <b>Call for Papers:</b> <a href='http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=86354&copyownerid=143601'>HTML</a>.
+  note: <b>Call for Papers:</b> <a href='http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=86354'>HTML</a>.
 
 - title: ICCD
   year: 2019
@@ -55,27 +55,6 @@
   place: Abu Dhabi, United Arab Emirates
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://www.iccd-conf.com/Call_for_papers.html'>HTML</a>.
-
-- title: ICPE
-  year: 2019
-  link: https://icpe2019.spec.org
-  deadline: '2019-10-20 23:59:59'
-  timezone: Etc/GMT-12
-  date: Apr 7-11, 2019
-  place: Mumbai, India
-  sub: TA
-  note: <b>Call for Papers:</b> <a href='https://www.iccad.com/2019_call_for_papers'>HTML</a>.
-
-- title: ASPLOS
-  year: 2020
-  id: asplos2020
-  link: https://asplos-conference.org
-  deadline: '2019-11-15 23:59:59'
-  timezone: Etc/GMT-1
-  date: March 16-20, 2020
-  place: Lausanne, Switzerland
-  sub: CA
-  note: <b>Call for Papers:</b> <a href='http://conference.researchbib.com/view/event/78623'>HTML</a>.
 
 - title: SAMOS
   year: 2019
@@ -98,6 +77,28 @@
   place: Washington D.C., USA
   sub: CA
   note: <b>Call for Papers:</b> <a href='http://hpca2019.seas.gwu.edu/hpca19-cfp.pdf'>PDF</a>.
+
+- title: ASPLOS
+  year: 2019
+  id: asplos2019
+  link: https://asplos-conference.org
+  deadline: '2018-07-31 23:59:59'
+  timezone: Etc/GMT+8
+  date: April 13-17, 2019
+  place: Providence, RI, USA
+  sub: CA
+  note: <b>Call for Papers:</b> <a href='https://asplos-conference.org/wp-content/uploads/2018/05/asplos19-cfp.pdf'>PDF</a>.
+
+- title: ICPE
+  year: 2019
+  id: icpe2019
+  link: https://icpe2019.spec.org
+  deadline: '2018-10-20 23:59:59'
+  timezone: Etc/GMT-12
+  date: Apr 7-11, 2019
+  place: Mumbai, India
+  sub: TA
+  note: <b>Call for Papers:</b> <a href='https://www.iccad.com/2019_call_for_papers'>HTML</a>.
 
 - title: ISCA
   year: 2019
