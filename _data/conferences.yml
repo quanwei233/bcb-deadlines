@@ -36,7 +36,7 @@
 
 - title: HiPEAC
   year: 2020
-  id: hipeac2019
+  id: hipeac2020
   link: http://hipeac.net/conference
   deadline: '2019-06-01 23:59:59'
   timezone: Etc/GMT-1
@@ -66,6 +66,17 @@
   sub: TA
   note: <b>Call for Papers:</b> <a href='https://www.iccad.com/2019_call_for_papers'>HTML</a>.
 
+- title: ASPLOS
+  year: 2020
+  id: asplos2020
+  link: https://asplos-conference.org
+  deadline: '2019-11-15 23:59:59'
+  timezone: Etc/GMT-1
+  date: March 16-20, 2020
+  place: Lausanne, Switzerland
+  sub: CA
+  note: <b>Call for Papers:</b> <a href='http://conference.researchbib.com/view/event/78623'>HTML</a>.
+
 - title: SAMOS
   year: 2019
   id: samosxix
@@ -87,17 +98,6 @@
   place: Washington D.C., USA
   sub: CA
   note: <b>Call for Papers:</b> <a href='http://hpca2019.seas.gwu.edu/hpca19-cfp.pdf'>PDF</a>.
-
-- title: ASPLOS
-  year: 2019
-  id: asplos2019
-  link: https://asplos-conference.org
-  deadline: '2018-07-31 23:59:59'
-  timezone: Etc/GMT+8
-  date: April 13-17, 2019
-  place: Providence, RI, USA
-  sub: CA
-  note: <b>Call for Papers:</b> <a href='https://asplos-conference.org/wp-content/uploads/2018/05/asplos19-cfp.pdf'>PDF</a>.
 
 - title: ISCA
   year: 2019
