@@ -34,6 +34,17 @@
   sub: TA
   note: <b>Call for Papers:</b> <a href='http://2019.rtss.org/call-for-papers/'>HTML</a>.
 
+- title: HiPEAC
+  year: 2020
+  id: hipeac2019
+  link: http://hipeac.net/conference
+  deadline: '2019-06-01 23:59:59'
+  timezone: Etc/GMT-1
+  date: Jan 20-22, 2020
+  place: Bologna, Italy
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=86354&copyownerid=143601'>HTML</a>.
+
 - title: ICCD
   year: 2019
   id: iccd2019
@@ -65,17 +76,6 @@
   place: Samos Island, Greece
   sub: ES
   note: <b>Call for Papers:</b> <a href='http://samos-conference.com/?q=node/49'>HTML</a>.
-
-- title: HiPEAC
-  year: 2019
-  id: hipeac2019
-  link: http://hipeac.net/conference
-  deadline: '2018-06-01 23:59:59'
-  timezone: Etc/GMT-1
-  date: Jan 21-23, 2019
-  place: Valencia, Spain
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=74246'>HTML</a>.
 
 - title: HPCA
   year: 2019
