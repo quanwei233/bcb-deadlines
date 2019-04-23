@@ -1,39 +1,6 @@
 
 ---
 
-- title: WCET
-  year: 2019
-  id: wcet19
-  link: https://www.ecrts.org/wcet/
-  deadline: '2019-04-16 23:59:00'
-  timezone: Etc/GMT
-  date: July 9-12, 2019
-  place: Stuttgart, Germany
-  sub: TA
-  note: <b>Call for Papers:</b> <a href='https://www.ecrts.org/wcet/wcet-call-for-papers/'>HTML</a>.
-
-- title: WATERS
-  year: 2019
-  id: waters19
-  link: https://www.ecrts.org/waters/
-  deadline: '2019-04-16 23:59:00'
-  timezone: Etc/GMT
-  date: July 9-12, 2019
-  place: Stuttgart, Germany
-  sub: TA
-  note: <b>Call for Papers:</b> <a href='https://www.ecrts.org/waters/waters-call-for-contributions/'>HTML</a>.
-
-- title: FDL
-  year: 2019
-  id: fdl19
-  link: http://fdl-conference.org/
-  deadline: '2019-04-19 23:59:00'
-  timezone: Etc/GMT
-  date: September 2-4, 2019
-  place: Southampton, UK
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='http://fdl-conference.org/submission.html#call4paper'>HTML</a>.
-
 - title: MCSoC
   year: 2019
   id: mcsoc19
@@ -77,6 +44,16 @@
   place: Abu Dhabi, United Arab Emirates
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://www.iccd-conf.com/Call_for_papers.html'>HTML</a>.
+
+- title: ICPE
+  year: 2019
+  link: https://icpe2019.spec.org
+  deadline: '2019-10-20 23:59:59'
+  timezone: Etc/GMT-12
+  date: Apr 7-11, 2019
+  place: Mumbai, India
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://www.iccad.com/2019_call_for_papers'>HTML</a>.
 
 - title: SAMOS
   year: 2019
@@ -264,3 +241,36 @@
   place: New York City, NY, USA
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://esweek.org/sites/default/files/CODES%2BISSS-2019-CFP.pdf'>PDF</a>.
+
+- title: WCET
+  year: 2019
+  id: wcet19
+  link: https://www.ecrts.org/wcet/
+  deadline: '2019-04-16 23:59:00'
+  timezone: Etc/GMT
+  date: July 9-12, 2019
+  place: Stuttgart, Germany
+  sub: TA
+  note: <b>Call for Papers:</b> <a href='https://www.ecrts.org/wcet/wcet-call-for-papers/'>HTML</a>.
+
+- title: WATERS
+  year: 2019
+  id: waters19
+  link: https://www.ecrts.org/waters/
+  deadline: '2019-04-16 23:59:00'
+  timezone: Etc/GMT
+  date: July 9-12, 2019
+  place: Stuttgart, Germany
+  sub: TA
+  note: <b>Call for Papers:</b> <a href='https://www.ecrts.org/waters/waters-call-for-contributions/'>HTML</a>.
+
+- title: FDL
+  year: 2019
+  id: fdl19
+  link: http://fdl-conference.org/
+  deadline: '2019-04-19 23:59:00'
+  timezone: Etc/GMT
+  date: September 2-4, 2019
+  place: Southampton, UK
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='http://fdl-conference.org/submission.html#call4paper'>HTML</a>.
