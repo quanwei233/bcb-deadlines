@@ -89,6 +89,17 @@
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://asplos-conference.org/wp-content/uploads/2018/05/asplos19-cfp.pdf'>PDF</a>.
 
+- title: ISPASS
+  year: 2019
+  id: ispass2019
+  link: https://www.ispass.org/ispass2019
+  deadline: '2018-09-28 23:59:59'
+  timezone: Etc/GMT-4
+  date: March 24-26, 2019
+  place: Madison, Wisconsin, USA
+  sub: TA
+  note: <b>Call for Papers:</b> <a href='http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=80342&copyownerid=3215'>HTML</a>.
+
 - title: ICPE
   year: 2019
   id: icpe2019
