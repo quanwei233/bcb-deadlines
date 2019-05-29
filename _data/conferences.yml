@@ -56,6 +56,17 @@
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://asplos-conference.org/wp-content/uploads/2019/05/asplos2020-cfp.pdf'>PDF</a>.
 
+- title: ICPE
+  year: 2020
+  id: icpe2020
+  link: https://icpe2020.spec.org
+  deadline: '2019-10-11 23:59:59'
+  timezone: Etc/GMT-7
+  date: Apr 20-24, 2020
+  place: Edmonton, Canada
+  sub: TA
+  note: <b>Call for Papers:</b> <a href='https://icpe2020.spec.org/assets/ICPE_2020_CFC_v3.pdf'>PDF</a>.
+
 - title: SAMOS
   year: 2019
   id: samosxix
@@ -77,17 +88,6 @@
   place: Madison, Wisconsin, USA
   sub: TA
   note: <b>Call for Papers:</b> <a href='http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=80342&copyownerid=3215'>HTML</a>.
-
-- title: ICPE
-  year: 2019
-  id: icpe2019
-  link: https://icpe2019.spec.org
-  deadline: '2018-10-20 23:59:59'
-  timezone: Etc/GMT-12
-  date: Apr 7-11, 2019
-  place: Mumbai, India
-  sub: TA
-  note: <b>Call for Papers:</b> <a href='https://www.iccad.com/2019_call_for_papers'>HTML</a>.
 
 - title: ISCA
   year: 2019
