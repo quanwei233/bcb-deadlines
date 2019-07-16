@@ -1,47 +1,5 @@
 
 ---
-- title: ESOP
-  year: 2020
-  id: esop200
-  link: https://www.etaps.org/2020/esop
-  deadline: '2019-10-24 23:59:00'
-  timezone: Etc/GMT-12
-  date: Apr 25-1 May, 2020
-  place: Dublin, Ireland
-  sub: ES
-
-- title: RTSS
-  year: 2019
-  id: rtss19
-  link: http://2019.rtss.org/
-  deadline: '2019-05-30 23:59:00'
-  timezone: Etc/GMT
-  date: December 3-6, 2019
-  place: Hong Kong, China
-  sub: TA
-  note: <b>Call for Papers:</b> <a href='http://2019.rtss.org/call-for-papers/'>HTML</a>.
-
-- title: HiPEAC
-  year: 2020
-  id: hipeac2020
-  link: http://hipeac.net/conference
-  deadline: '2019-06-01 23:59:59'
-  timezone: Etc/GMT-1
-  date: Jan 20-22, 2020
-  place: Bologna, Italy
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=86354'>HTML</a>.
-
-- title: ICCD
-  year: 2019
-  id: iccd2019
-  link: https://www.iccd-conf.com/Home.html
-  deadline: '2019-06-21 23:59:59'
-  timezone: Etc/GMT-12
-  date: Nov 17-20, 2019
-  place: Abu Dhabi, United Arab Emirates
-  sub: CA
-  note: <b>Call for Papers:</b> <a href='https://www.iccd-conf.com/Call_for_papers.html'>HTML</a>.
 
 - title: HPCA
   year: 2020
@@ -75,6 +33,16 @@
   place: Edmonton, Canada
   sub: TA
   note: <b>Call for Papers:</b> <a href='https://icpe2020.spec.org/assets/ICPE_2020_CFC_v3.pdf'>PDF</a>.
+
+- title: ESOP
+  year: 2020
+  id: esop200
+  link: https://www.etaps.org/2020/esop
+  deadline: '2019-10-24 23:59:00'
+  timezone: Etc/GMT-12
+  date: Apr 25-1 May, 2020
+  place: Dublin, Ireland
+  sub: ES
 
 - title: SAMOS
   year: 2019
@@ -295,3 +263,36 @@
   place: Long Beach, California, USA
   sub: LP
   note: <b>Call for Papers:</b> <a href='https://rebootingcomputing.ieee.org/lpirc/grand-challenge-in-low-power-computer-vision'>HTML</a>.
+
+- title: RTSS
+  year: 2019
+  id: rtss19
+  link: http://2019.rtss.org/
+  deadline: '2019-05-30 23:59:00'
+  timezone: Etc/GMT
+  date: December 3-6, 2019
+  place: Hong Kong, China
+  sub: TA
+  note: <b>Call for Papers:</b> <a href='http://2019.rtss.org/call-for-papers/'>HTML</a>.
+
+- title: HiPEAC
+  year: 2020
+  id: hipeac2020
+  link: http://hipeac.net/conference
+  deadline: '2019-06-01 23:59:59'
+  timezone: Etc/GMT-1
+  date: Jan 20-22, 2020
+  place: Bologna, Italy
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=86354'>HTML</a>.
+
+- title: ICCD
+  year: 2019
+  id: iccd2019
+  link: https://www.iccd-conf.com/Home.html
+  deadline: '2019-06-21 23:59:59'
+  timezone: Etc/GMT-12
+  date: Nov 17-20, 2019
+  place: Abu Dhabi, United Arab Emirates
+  sub: CA
+  note: <b>Call for Papers:</b> <a href='https://www.iccd-conf.com/Call_for_papers.html'>HTML</a>.
