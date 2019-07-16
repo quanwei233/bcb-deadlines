@@ -1,5 +1,14 @@
 
 ---
+- title: ESOP
+  year: 2020
+  id: esop200
+  link: https://www.etaps.org/2020/esop
+  deadline: '2019-10-24 23:59:00'
+  timezone: Etc/GMT-12
+  date: Apr 25-1 May, 2020
+  place: Dublin, Ireland
+  sub: ES
 
 - title: RTSS
   year: 2019
