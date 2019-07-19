@@ -56,16 +56,27 @@
   sub: TA
   note: <b>Call for Papers:</b> <a href='https://icpe2020.spec.org/assets/ICPE_2020_CFC_v3.pdf'>PDF</a>.
 
+- title: RTAS
+  year: 2020
+  id: rtas20
+  link: http://2020.rtas.org
+  deadline: '2019-10-23 23:59:00'
+  timezone: Europe/Berlin
+  date: April 21-24, 2020
+  place: Sydney, Australia
+  sub: TA
+  note: <b>Call for Papers:</b> <a href='http://2020.rtas.org/submissions/call-for-papers/'>HTML</a>.
+
 - title: ESOP
   year: 2020
   id: esop200
   link: https://www.etaps.org/2020/esop
   deadline: '2019-10-24 23:59:00'
-  timezone: Etc/GMT-12
+  timezone: Europe/Berlin
   date: Apr 25-1 May, 2020
   place: Dublin, Ireland
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://www.etaps.org/2020/call-for-papers'>HTML</a>
+  sub: SE
+  note: <b>Call for Papers:</b> <a href='https://www.etaps.org/2020/call-for-papers'>HTML</a>.
 
 - title: SAMOS
   year: 2019

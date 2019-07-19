@@ -7,3 +7,5 @@
   sub: CA
 - name: Low Power
   sub: LP
+- name: Software Engineering
+  sub: SE
