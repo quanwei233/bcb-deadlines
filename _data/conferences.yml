@@ -34,6 +34,17 @@
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://www.iscaconf.org/isca2020/submit/papers.html'>HTML</a>.
 
+- title: DAC
+  year: 2020
+  id: dac2020
+  link: https://www.dac.com
+  deadline: '2019-11-21 16:59:59'
+  timezone: Etc/GMT-7
+  date: Jul 19-23, 2020
+  place: San Francisco, CA, USA
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://www.dac.com/call-for-contributions?utm_source=iContact&utm_medium=email&utm_campaign=57th-dac-in-san-francisco&utm_content=DAC+57+Call+for+Contributions'>HTML</a>.
+
 - title: MBMV
   year: 2020
   id: mbmv2020
