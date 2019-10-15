@@ -34,6 +34,17 @@
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://www.iscaconf.org/isca2020/submit/papers.html'>HTML</a>.
 
+- title: MBMV
+  year: 2020
+  id: mbmv2020
+  link: https://www.vde.com/de/veranstaltungen/veranstaltungsuebersicht/veranstaltung-detailseite?id=17451&type=vde%7Cvdb
+  deadline: '2019-12-06 23:59:59'
+  timezone: Etc/GMT-1
+  date: March 19-20, 2020
+  place: Stuttgart, Germany
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://www.vde.com/de/veranstaltungen/veranstaltungsuebersicht/veranstaltung-detailseite?id=17451&type=vde%7Cvdb'>HTML</a>.
+
 - title: ECRTS
   year: 2020
   id: ecrts20
@@ -45,16 +56,16 @@
   sub: TA
   note: <b>Call for Papers:</b> <a href='https://www.ecrts.org/call-for-papers/'>HTML</a>.
 
-- title: MBMV
+- title: SCOPES
   year: 2020
-  id: mbmv2020
-  link: https://www.vde.com/de/veranstaltungen/veranstaltungsuebersicht/veranstaltung-detailseite?id=17451&type=vde%7Cvdb
-  deadline: '2020-12-06 23:59:59'
-  timezone: Etc/GMT-1
-  date: March 19-20, 2020
-  place: Stuttgart, Germany
+  id: scopes20
+  link: https://scopesconf.org/scopes-20/
+  deadline: '2020-02-14 23:59:00'
+  timezone: Etc/GMT
+  date: May 25-26, 2020
+  place: Sankt Goar, Germany
   sub: ES
-  note: <b>Call for Papers:</b> <a href='https://www.vde.com/de/veranstaltungen/veranstaltungsuebersicht/veranstaltung-detailseite?id=17451&type=vde%7Cvdb'>HTML</a>.
+  note: <b>Call for Papers:</b> <a href='https://www.scopesconf.org/scopes-20/dates.php'>HTML</a>.
 
 - title: SAMOS
   year: 2019
@@ -88,17 +99,6 @@
   place: Brussles, Belgium
   sub: ES
   note: <b>Call for Contributions:</b> <a href='http://lists.llvm.org/pipermail/llvm-dev/2019-January/129091.html'>HTML</a>.
-
-- title: SCOPES
-  year: 2019
-  id: scopes19
-  link: https://scopesconf.org/scopes-19/
-  deadline: '2019-02-24 23:59:00'
-  timezone: Etc/GMT
-  date: May 27-28, 2019
-  place: Sankt Goar, Germany
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://www.scopesconf.org/scopes-19/cfp.php'>HTML</a>.
 
 - title: LCTES
   year: 2019
