@@ -34,6 +34,17 @@
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://www.iscaconf.org/isca2020/submit/papers.html'>HTML</a>.
 
+- title: ECRTS
+  year: 2020
+  id: ecrts20
+  link: https://www.ecrts.org/
+  deadline: '2020-02-06 23:59:00'
+  timezone: Etc/GMT-12
+  date: July 7-10, 2020
+  place: Modena, Italy
+  sub: TA
+  note: <b>Call for Papers:</b> <a href='https://www.ecrts.org/call-for-papers/'>HTML</a>.
+
 - title: SAMOS
   year: 2019
   id: samosxix
@@ -66,17 +77,6 @@
   place: Brussles, Belgium
   sub: ES
   note: <b>Call for Contributions:</b> <a href='http://lists.llvm.org/pipermail/llvm-dev/2019-January/129091.html'>HTML</a>.
-
-- title: ECRTS
-  year: 2019
-  id: ecrts19
-  link: https://www.ecrts.org/
-  deadline: '2019-02-07 23:59:00'
-  timezone: Etc/GMT
-  date: July 9-12, 2019
-  place: Stuttgart, Germany
-  sub: TA
-  note: <b>Call for Papers:</b> <a href='https://www.ecrts.org/call-for-papers/'>HTML</a>.
 
 - title: MBMV
   year: 2019
