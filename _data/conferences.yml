@@ -45,6 +45,17 @@
   sub: TA
   note: <b>Call for Papers:</b> <a href='https://www.ecrts.org/call-for-papers/'>HTML</a>.
 
+- title: MBMV
+  year: 2020
+  id: mbmv2020
+  link: https://www.vde.com/de/veranstaltungen/veranstaltungsuebersicht/veranstaltung-detailseite?id=17451&type=vde%7Cvdb
+  deadline: '2020-12-06 23:59:59'
+  timezone: Etc/GMT-1
+  date: March 19-20, 2020
+  place: Stuttgart, Germany
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://www.vde.com/de/veranstaltungen/veranstaltungsuebersicht/veranstaltung-detailseite?id=17451&type=vde%7Cvdb'>HTML</a>.
+
 - title: SAMOS
   year: 2019
   id: samosxix
@@ -77,17 +88,6 @@
   place: Brussles, Belgium
   sub: ES
   note: <b>Call for Contributions:</b> <a href='http://lists.llvm.org/pipermail/llvm-dev/2019-January/129091.html'>HTML</a>.
-
-- title: MBMV
-  year: 2019
-  id: mbmv2019
-  link: https://www.vde.com/de/veranstaltungen/veranstaltungsuebersicht/veranstaltung-detailseite?id=16106&type=vde%7Cvdb
-  deadline: '2019-02-15 23:59:59'
-  timezone: Etc/GMT-1
-  date: April 8-9, 2019
-  place: Kaiserslautern, Germany
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://www.vde.com/resource/blob/1779944/9b060fa6f02c8e857f48ff5045cce8cb/call-for-papers-data.pdf'>PDF</a>.
 
 - title: SCOPES
   year: 2019
