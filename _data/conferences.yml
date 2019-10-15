@@ -1,39 +1,6 @@
 
 ---
 
-- title: DATE
-  year: 2020
-  id: date2020
-  link: https://www.date-conference.com
-  deadline: '2019-09-08 23:59:59'
-  timezone: Europe/Paris
-  date: Mar 9-13, 2020
-  place: Grenonble, France
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://www.date-conference.com/call-for-papers'>HTML</a>.
-
-- title: ISPASS
-  year: 2020
-  id: ispass2020
-  link: https://www.ispass.org/ispass2020/
-  deadline: '2019-10-03 23:59:59'
-  timezone: Etc/GMT-4
-  date: April 5-7, 2020
-  place: Boston, Massachusetts, USA
-  sub: TA
-  note: <b>Call for Papers:</b> <a href='https://www.ispass.org/ispass2020'>HTML</a>.
-
-- title: ICPE
-  year: 2020
-  id: icpe2020
-  link: https://icpe2020.spec.org
-  deadline: '2019-10-11 23:59:59'
-  timezone: Etc/GMT-7
-  date: Apr 20-24, 2020
-  place: Edmonton, Canada
-  sub: TA
-  note: <b>Call for Papers:</b> <a href='https://icpe2020.spec.org/assets/ICPE_2020_CFC_v3.pdf'>PDF</a>.
-
 - title: RTAS
   year: 2020
   id: rtas20
@@ -56,6 +23,17 @@
   sub: SE
   note: <b>Call for Papers:</b> <a href='https://www.etaps.org/2020/call-for-papers'>HTML</a>.
 
+- title: ISCA
+  year: 2020
+  id: isca2020
+  link: https://iscaconf.org/isca2020/
+  deadline: '2019-11-19 23:59:59'
+  timezone: Etc/GMT-2
+  date: May 30 - June 3, 2020
+  place: Valencia, Spain
+  sub: CA
+  note: <b>Call for Papers:</b> <a href='https://www.iscaconf.org/isca2020/submit/papers.html'>HTML</a>.
+
 - title: SAMOS
   year: 2019
   id: samosxix
@@ -66,17 +44,6 @@
   place: Samos Island, Greece
   sub: ES
   note: <b>Call for Papers:</b> <a href='http://samos-conference.com/?q=node/49'>HTML</a>.
-
-- title: ISCA
-  year: 2019
-  id: isca2019
-  link: https://iscaconf.org/isca2019/
-  deadline: '2018-12-03 23:59:59'
-  timezone: Etc/GMT+5
-  date: June 22-26, 2019
-  place: Pheonix, AZ, USA
-  sub: CA
-  note: <b>Call for Papers:</b> <a href='https://iscaconf.org/isca2019/docs/ISCA-2019-Call-for-Papers.pdf'>PDF</a>.
 
 - title: ARCS
   year: 2019
@@ -330,3 +297,36 @@
   place: Lausanne, Switzerland
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://asplos-conference.org/wp-content/uploads/2019/05/asplos2020-cfp.pdf'>PDF</a>.
+
+- title: DATE
+  year: 2020
+  id: date2020
+  link: https://www.date-conference.com
+  deadline: '2019-09-08 23:59:59'
+  timezone: Europe/Paris
+  date: Mar 9-13, 2020
+  place: Grenonble, France
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://www.date-conference.com/call-for-papers'>HTML</a>.
+
+- title: ISPASS
+  year: 2020
+  id: ispass2020
+  link: https://www.ispass.org/ispass2020/
+  deadline: '2019-10-03 23:59:59'
+  timezone: Etc/GMT-4
+  date: April 5-7, 2020
+  place: Boston, Massachusetts, USA
+  sub: TA
+  note: <b>Call for Papers:</b> <a href='https://www.ispass.org/ispass2020'>HTML</a>.
+
+- title: ICPE
+  year: 2020
+  id: icpe2020
+  link: https://icpe2020.spec.org
+  deadline: '2019-10-11 23:59:59'
+  timezone: Etc/GMT-7
+  date: Apr 20-24, 2020
+  place: Edmonton, Canada
+  sub: TA
+  note: <b>Call for Papers:</b> <a href='https://icpe2020.spec.org/assets/ICPE_2020_CFC_v3.pdf'>PDF</a>.
