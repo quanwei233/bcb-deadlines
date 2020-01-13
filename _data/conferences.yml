@@ -78,6 +78,17 @@
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://dsd-seaa2020.um.si/dsd/CfP.pdf'>PDF</a>.
 
+- title: CASES
+  year: 2020
+  id: cases2020
+  link: https://www.esweek.org/cases/about
+  deadline: '2020-04-04 12:59:59'
+  timezone: Etc/GMT+1
+  date: Oct 11-16, 2019
+  place: Shanghai, CN
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://esweek.org/sites/default/files/CASES_2020_CFP.pdf'>PDF</a>.
+
 - title: MICRO
   year: 2019
   id: micro52
@@ -99,17 +110,6 @@
   place: Westminster, USA
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://www.iccad.com/2019_call_for_papers'>HTML</a>.
-
-- title: CASES
-  year: 2019
-  id: cases2019
-  link: https://www.esweek.org/cases/about
-  deadline: '2019-04-05 23:59:59'
-  timezone: Etc/GMT+5
-  date: Oct 13-18, 2019
-  place: New York City, NY, USA
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://esweek.org/sites/default/files/2019-CASES-cfp_0.pdf'>PDF</a>.
 
 - title: CODES+ISSS
   year: 2019
