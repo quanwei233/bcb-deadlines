@@ -89,6 +89,17 @@
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://esweek.org/sites/default/files/CASES_2020_CFP.pdf'>PDF</a>.
 
+- title: CODES+ISSS
+  year: 2020
+  id: codesisss2020
+  link: https://www.esweek.org/codes/about
+  deadline: '2020-04-04 12:59:59'
+  timezone: Etc/GMT+1
+  date: Oct 11-16, 2019
+  place: Shanghai, CN
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://esweek.org/sites/default/files/CODES_ISSS_2020_CFP.pdf'>PDF</a>.
+
 - title: MICRO
   year: 2019
   id: micro52
@@ -110,17 +121,6 @@
   place: Westminster, USA
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://www.iccad.com/2019_call_for_papers'>HTML</a>.
-
-- title: CODES+ISSS
-  year: 2019
-  id: codesisss2019
-  link: https://www.esweek.org/codes/about
-  deadline: '2019-04-05 23:59:59'
-  timezone: Etc/GMT+5
-  date: Oct 13-18, 2019
-  place: New York City, NY, USA
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://esweek.org/sites/default/files/CODES%2BISSS-2019-CFP.pdf'>PDF</a>.
 
 - title: WCET
   year: 2019
