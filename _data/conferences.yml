@@ -1,6 +1,17 @@
 
 ---
 
+- title: ICCD
+  year: 2020
+  id: iccd2020
+  link: https://waset.org/computer-design-conference-in-april-2020-in-paris
+  deadline: '2020-01-15 23:59:59'
+  timezone: Etc/GMT+1
+  date: April 16-17, 2020
+  place: Paris, France
+  sub: CA
+  note: <b>Call for Papers:</b> <a href='https://waset.org/computer-design-conference-in-april-2020-in-paris'>HTML</a>.
+
 - title: ARCS
   year: 2020
   id: arcs2020
@@ -176,17 +187,6 @@
   place: Bologna, Italy
   sub: ES
   note: <b>Call for Papers:</b> <a href='http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=86354'>HTML</a>.
-
-- title: ICCD
-  year: 2019
-  id: iccd2019
-  link: https://www.iccd-conf.com/Home.html
-  deadline: '2019-06-21 23:59:59'
-  timezone: Etc/GMT-12
-  date: Nov 17-20, 2019
-  place: Abu Dhabi, United Arab Emirates
-  sub: CA
-  note: <b>Call for Papers:</b> <a href='https://www.iccd-conf.com/Call_for_papers.html'>HTML</a>.
 
 - title: HPCA
   year: 2020
