@@ -1,61 +1,6 @@
 
 ---
 
-- title: RTAS
-  year: 2020
-  id: rtas20
-  link: http://2020.rtas.org
-  deadline: '2019-10-23 23:59:00'
-  timezone: Europe/Berlin
-  date: April 21-24, 2020
-  place: Sydney, Australia
-  sub: TA
-  note: <b>Call for Papers:</b> <a href='http://2020.rtas.org/submissions/call-for-papers/'>HTML</a>.
-
-- title: ESOP
-  year: 2020
-  id: esop200
-  link: https://www.etaps.org/2020/esop
-  deadline: '2019-10-24 23:59:00'
-  timezone: Europe/Berlin
-  date: Apr 25-1 May, 2020
-  place: Dublin, Ireland
-  sub: SE
-  note: <b>Call for Papers:</b> <a href='https://www.etaps.org/2020/call-for-papers'>HTML</a>.
-
-- title: ISCA
-  year: 2020
-  id: isca2020
-  link: https://iscaconf.org/isca2020/
-  deadline: '2019-11-19 23:59:59'
-  timezone: Etc/GMT-2
-  date: May 30 - June 3, 2020
-  place: Valencia, Spain
-  sub: CA
-  note: <b>Call for Papers:</b> <a href='https://www.iscaconf.org/isca2020/submit/papers.html'>HTML</a>.
-
-- title: DAC
-  year: 2020
-  id: dac2020
-  link: https://www.dac.com
-  deadline: '2019-11-21 16:59:59'
-  timezone: Etc/GMT-7
-  date: Jul 19-23, 2020
-  place: San Francisco, CA, USA
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://www.dac.com/call-for-contributions?utm_source=iContact&utm_medium=email&utm_campaign=57th-dac-in-san-francisco&utm_content=DAC+57+Call+for+Contributions'>HTML</a>.
-
-- title: MBMV
-  year: 2020
-  id: mbmv2020
-  link: https://www.vde.com/de/veranstaltungen/veranstaltungsuebersicht/veranstaltung-detailseite?id=17451&type=vde%7Cvdb
-  deadline: '2019-12-06 23:59:59'
-  timezone: Etc/GMT-1
-  date: March 19-20, 2020
-  place: Stuttgart, Germany
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://www.vde.com/de/veranstaltungen/veranstaltungsuebersicht/veranstaltung-detailseite?id=17451&type=vde%7Cvdb'>HTML</a>.
-
 - title: ECRTS
   year: 2020
   id: ecrts20
@@ -79,15 +24,15 @@
   note: <b>Call for Papers:</b> <a href='https://www.scopesconf.org/scopes-20/dates.php'>HTML</a>.
 
 - title: SAMOS
-  year: 2019
-  id: samosxix
+  year: 2020
+  id: samosxx
   link: http://samos-conference.com
-  deadline: '2018-03-01 23:59:59'
+  deadline: '2020-02-28 23:59:59'
   timezone: Etc/GMT-2
-  date: July 7-11, 2019
+  date: July 5-9, 2020
   place: Samos Island, Greece
   sub: ES
-  note: <b>Call for Papers:</b> <a href='http://samos-conference.com/?q=node/49'>HTML</a>.
+  note: <b>Call for Papers:</b> <a href='https://samos-conference.com/Resources_Samos_Websites/Files_Repository_SAMOS/SAMOS_XX_CFP.pdf'>PDF</a>.
 
 - title: ARCS
   year: 2019
@@ -341,3 +286,58 @@
   place: Edmonton, Canada
   sub: TA
   note: <b>Call for Papers:</b> <a href='https://icpe2020.spec.org/assets/ICPE_2020_CFC_v3.pdf'>PDF</a>.
+
+- title: RTAS
+  year: 2020
+  id: rtas20
+  link: http://2020.rtas.org
+  deadline: '2019-10-23 23:59:00'
+  timezone: Europe/Berlin
+  date: April 21-24, 2020
+  place: Sydney, Australia
+  sub: TA
+  note: <b>Call for Papers:</b> <a href='http://2020.rtas.org/submissions/call-for-papers/'>HTML</a>.
+
+- title: ESOP
+  year: 2020
+  id: esop200
+  link: https://www.etaps.org/2020/esop
+  deadline: '2019-10-24 23:59:00'
+  timezone: Europe/Berlin
+  date: Apr 25-1 May, 2020
+  place: Dublin, Ireland
+  sub: SE
+  note: <b>Call for Papers:</b> <a href='https://www.etaps.org/2020/call-for-papers'>HTML</a>.
+
+- title: ISCA
+  year: 2020
+  id: isca2020
+  link: https://iscaconf.org/isca2020/
+  deadline: '2019-11-19 23:59:59'
+  timezone: Etc/GMT-2
+  date: May 30 - June 3, 2020
+  place: Valencia, Spain
+  sub: CA
+  note: <b>Call for Papers:</b> <a href='https://www.iscaconf.org/isca2020/submit/papers.html'>HTML</a>.
+
+- title: DAC
+  year: 2020
+  id: dac2020
+  link: https://www.dac.com
+  deadline: '2019-11-21 16:59:59'
+  timezone: Etc/GMT-7
+  date: Jul 19-23, 2020
+  place: San Francisco, CA, USA
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://www.dac.com/call-for-contributions?utm_source=iContact&utm_medium=email&utm_campaign=57th-dac-in-san-francisco&utm_content=DAC+57+Call+for+Contributions'>HTML</a>.
+
+- title: MBMV
+  year: 2020
+  id: mbmv2020
+  link: https://www.vde.com/de/veranstaltungen/veranstaltungsuebersicht/veranstaltung-detailseite?id=17451&type=vde%7Cvdb
+  deadline: '2019-12-06 23:59:59'
+  timezone: Etc/GMT-1
+  date: March 19-20, 2020
+  place: Stuttgart, Germany
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://www.vde.com/de/veranstaltungen/veranstaltungsuebersicht/veranstaltung-detailseite?id=17451&type=vde%7Cvdb'>HTML</a>.
