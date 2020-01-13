@@ -122,28 +122,6 @@
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://www.iccad.com/2019_call_for_papers'>HTML</a>.
 
-- title: WCET
-  year: 2019
-  id: wcet19
-  link: https://www.ecrts.org/wcet/
-  deadline: '2019-04-16 23:59:00'
-  timezone: Etc/GMT
-  date: July 9-12, 2019
-  place: Stuttgart, Germany
-  sub: TA
-  note: <b>Call for Papers:</b> <a href='https://www.ecrts.org/wcet/wcet-call-for-papers/'>HTML</a>.
-
-- title: WATERS
-  year: 2019
-  id: waters19
-  link: https://www.ecrts.org/waters/
-  deadline: '2019-04-16 23:59:00'
-  timezone: Etc/GMT
-  date: July 9-12, 2019
-  place: Stuttgart, Germany
-  sub: TA
-  note: <b>Call for Papers:</b> <a href='https://www.ecrts.org/waters/waters-call-for-contributions/'>HTML</a>.
-
 - title: FDL
   year: 2019
   id: fdl19
