@@ -45,17 +45,6 @@
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://samos-conference.com/Resources_Samos_Websites/Files_Repository_SAMOS/SAMOS_XX_CFP.pdf'>PDF</a>.
 
-- title: EuroLLVM
-  year: 2019
-  id: eurollvm2019
-  link: http://llvm.org/devmtg/2019-04
-  deadline: '2019-01-14 07:59:59'
-  timezone: Etc/GMT-1
-  date: April 8-9, 2019
-  place: Brussles, Belgium
-  sub: ES
-  note: <b>Call for Contributions:</b> <a href='http://lists.llvm.org/pipermail/llvm-dev/2019-January/129091.html'>HTML</a>.
-
 - title: LCTES
   year: 2019
   id: lctes2019
@@ -341,3 +330,14 @@
   place: Stuttgart, Germany
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://www.vde.com/de/veranstaltungen/veranstaltungsuebersicht/veranstaltung-detailseite?id=17451&type=vde%7Cvdb'>HTML</a>.
+
+- title: EuroLLVM
+  year: 2020
+  id: eurollvm2020
+  link: http://llvm.org/devmtg/2020-04
+  deadline: '2020-01-12 10:59:59'
+  timezone: Etc/GMT-1
+  date: April 6-7, 2020
+  place: Paris, France
+  sub: ES
+  note: <b>Call for Contributions:</b> <a href='http://llvm.org/devmtg/2020-04/#cfp'>HTML</a>.
