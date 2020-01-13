@@ -111,6 +111,17 @@
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://esweek.org/sites/default/files/CODES_ISSS_2020_CFP.pdf'>PDF</a>.
 
+- title: MCSoC
+  year: 2020
+  id: mcsoc20
+  link: http://mcsoc-forum.org/
+  deadline: '2020-05-01 12:59:59'
+  timezone: Etc/GMT+1
+  date: December 20-23, 2020
+  place: Singapore
+  sub: CA
+  note: <b>Call for Papers:</b> <a href='http://mcsoc-forum.org/2020/call-for-paper/'>HTML</a>.
+
 - title: MICRO
   year: 2019
   id: micro52
@@ -132,17 +143,6 @@
   place: Westminster, USA
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://www.iccad.com/2019_call_for_papers'>HTML</a>.
-
-- title: MCSoC
-  year: 2019
-  id: mcsoc19
-  link: http://mcsoc-forum.org/
-  deadline: '2019-04-30 23:59:00'
-  timezone: Etc/GMT
-  date: October 1-4, 2019
-  place: Singapore
-  sub: CA
-  note: <b>Call for Papers:</b> <a href='http://mcsoc-forum.org/m2019/wp-content/uploads/2018/11/MCSOC2019-CFP.pdf'>PDF</a>.
 
 - title: LPIRC
   year: 2019
