@@ -56,6 +56,17 @@
   sub: LP
   note: <b>Call for Papers:</b> <a href='http://www.islped.org/2020/files/ISLPED2020_CFP_v1.0-Nov2019.pdf'>PDF</a>.
 
+- title: FDL
+  year: 2020
+  id: fdl20
+  link: http://fdl-conference.org/
+  deadline: '2020-03-23 12:59:59'
+  timezone: Etc/GMT
+  date: September 7-9, 2020
+  place: Kiel, Germany
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='http://fdl-conference.com/doc/CFP.pdf'>PDF</a>.
+
 - title: LCTES
   year: 2020
   id: lctes2020
@@ -121,17 +132,6 @@
   place: Westminster, USA
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://www.iccad.com/2019_call_for_papers'>HTML</a>.
-
-- title: FDL
-  year: 2019
-  id: fdl19
-  link: http://fdl-conference.org/
-  deadline: '2019-04-19 23:59:00'
-  timezone: Etc/GMT
-  date: September 2-4, 2019
-  place: Southampton, UK
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='http://fdl-conference.org/submission.html#call4paper'>HTML</a>.
 
 - title: MCSoC
   year: 2019
