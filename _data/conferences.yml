@@ -89,6 +89,17 @@
   sub: ES
   note: <b>Call for Papers:</b> <a href='https://www.iccad.com/2019_call_for_paper'>PDF</a>.
 
+- title: RTSS
+  year: 2020
+  id: rtss20
+  link: http://2020.rtss.org/
+  deadline: '2020-05-28 11:59:00'
+  timezone: Etc/GMT
+  date: December 1-4, 2020
+  place: Houston, Texas, USA
+  sub: TA
+  note: <b>Call for Papers:</b> <a href='http://2020.rtss.org/call-for-papers/'>HTML</a>.
+
 - title: LPIRC
   year: 2019
   id: lpirc19
@@ -99,17 +110,6 @@
   place: Long Beach, California, USA
   sub: LP
   note: <b>Call for Papers:</b> <a href='https://rebootingcomputing.ieee.org/lpirc/grand-challenge-in-low-power-computer-vision'>HTML</a>.
-
-- title: RTSS
-  year: 2019
-  id: rtss19
-  link: http://2019.rtss.org/
-  deadline: '2019-05-30 23:59:00'
-  timezone: Etc/GMT
-  date: December 3-6, 2019
-  place: Hong Kong, China
-  sub: TA
-  note: <b>Call for Papers:</b> <a href='http://2019.rtss.org/call-for-papers/'>HTML</a>.
 
 - title: HiPEAC
   year: 2020
