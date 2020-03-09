@@ -23,6 +23,17 @@
   sub: CA
   note: <b>Call for Papers:</b> <a href='https://www.microarch.org/micro53/submit/cfp.pdf'>PDF</a>.
 
+- title: ASAP
+  year: 2020
+  id: asap2020
+  link: https://asap2020.cs.manchester.ac.uk
+  deadline: '2020-03-27 23:59:59'
+  timezone: Etc/GMT
+  date: July 6-8, 2020
+  place: Manchester, UK
+  sub: CA
+  note: <b>Call for Papers:</b> <a href='https://asap2020.cs.manchester.ac.uk/ASAP2020_CFP.pdf'>PDF</a>.
+
 - title: LCTES
   year: 2020
   id: lctes2020
