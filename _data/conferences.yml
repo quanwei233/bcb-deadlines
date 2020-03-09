@@ -100,6 +100,17 @@
   sub: TA
   note: <b>Call for Papers:</b> <a href='http://2020.rtss.org/call-for-papers/'>HTML</a>.
 
+- title: HiPEAC
+  year: 2020
+  id: hipeac2020
+  link: http://hipeac.net/conference
+  deadline: '2020-06-01 23:59:59'
+  timezone: Etc/GMT-1
+  date: Jan 20-22, 2020
+  place: Bologna, Italy
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=86354'>HTML</a>.
+
 - title: LPIRC
   year: 2019
   id: lpirc19
@@ -110,17 +121,6 @@
   place: Long Beach, California, USA
   sub: LP
   note: <b>Call for Papers:</b> <a href='https://rebootingcomputing.ieee.org/lpirc/grand-challenge-in-low-power-computer-vision'>HTML</a>.
-
-- title: HiPEAC
-  year: 2020
-  id: hipeac2020
-  link: http://hipeac.net/conference
-  deadline: '2019-06-01 23:59:59'
-  timezone: Etc/GMT-1
-  date: Jan 20-22, 2020
-  place: Bologna, Italy
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=86354'>HTML</a>.
 
 - title: HPCA
   year: 2020
