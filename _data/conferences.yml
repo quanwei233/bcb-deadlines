@@ -1,72 +1,6 @@
 
 ---
 
-- title: MICRO
-  year: 2020
-  id: micro53
-  link: https://www.microarch.org/micro53/
-  deadline: '2020-03-27 23:59:59'
-  timezone: Etc/GMT-7
-  date: October 17-21, 2020
-  place: Athens, Greece
-  sub: CA
-  note: <b>Call for Papers:</b> <a href='https://www.microarch.org/micro53/submit/cfp.pdf'>PDF</a>.
-
-- title: ASAP
-  year: 2020
-  id: asap2020
-  link: https://asap2020.cs.manchester.ac.uk
-  deadline: '2020-03-27 23:59:59'
-  timezone: Etc/GMT
-  date: July 6-8, 2020
-  place: Manchester, UK
-  sub: CA
-  note: <b>Call for Papers:</b> <a href='https://asap2020.cs.manchester.ac.uk/ASAP2020_CFP.pdf'>PDF</a>.
-
-- title: LCTES
-  year: 2020
-  id: lctes2020
-  link: https://conf.researchr.org/home/LCTES-2020
-  deadline: '2020-03-30 10:59:59'
-  timezone: Etc/GMT-1
-  date: June 15-20, 2020
-  place: London, UK
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://conf.researchr.org/home/LCTES-2020#Call-for-Papers'>HTML</a>.
-
-- title: DSD
-  year: 2020
-  id: dsd2020
-  link: https://dsd-seaa2020.um.si/dsd/index.html
-  deadline: '2020-04-01 23:59:59'
-  timezone: Etc/GMT+2
-  date: August 26-28, 2020
-  place: "Portoroz\u030C, Slovenia"
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://dsd-seaa2020.um.si/dsd/CfP.pdf'>PDF</a>.
-
-- title: CASES
-  year: 2020
-  id: cases2020
-  link: https://www.esweek.org/cases/about
-  deadline: '2020-04-04 12:59:59'
-  timezone: Etc/GMT+1
-  date: Oct 11-16, 2019
-  place: Shanghai, CN
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://esweek.org/sites/default/files/CASES_2020_CFP.pdf'>PDF</a>.
-
-- title: CODES+ISSS
-  year: 2020
-  id: codesisss2020
-  link: https://www.esweek.org/codes/about
-  deadline: '2020-04-04 12:59:59'
-  timezone: Etc/GMT+1
-  date: Oct 11-16, 2019
-  place: Shanghai, CN
-  sub: ES
-  note: <b>Call for Papers:</b> <a href='https://esweek.org/sites/default/files/CODES_ISSS_2020_CFP.pdf'>PDF</a>.
-
 - title: MCSoC
   year: 2020
   id: mcsoc20
@@ -330,3 +264,69 @@
   place: Boston, MA, USA
   sub: LP
   note: <b>Call for Papers:</b> <a href='http://www.islped.org/2020/files/ISLPED2020_CFP_v1.0-Nov2019.pdf'>PDF</a>.
+
+- title: MICRO
+  year: 2020
+  id: micro53
+  link: https://www.microarch.org/micro53/
+  deadline: '2020-03-27 23:59:59'
+  timezone: Etc/GMT-7
+  date: October 17-21, 2020
+  place: Athens, Greece
+  sub: CA
+  note: <b>Call for Papers:</b> <a href='https://www.microarch.org/micro53/submit/cfp.pdf'>PDF</a>.
+
+- title: ASAP
+  year: 2020
+  id: asap2020
+  link: https://asap2020.cs.manchester.ac.uk
+  deadline: '2020-03-27 23:59:59'
+  timezone: Etc/GMT
+  date: July 6-8, 2020
+  place: Manchester, UK
+  sub: CA
+  note: <b>Call for Papers:</b> <a href='https://asap2020.cs.manchester.ac.uk/ASAP2020_CFP.pdf'>PDF</a>.
+
+- title: LCTES
+  year: 2020
+  id: lctes2020
+  link: https://conf.researchr.org/home/LCTES-2020
+  deadline: '2020-03-30 10:59:59'
+  timezone: Etc/GMT-1
+  date: June 15-20, 2020
+  place: London, UK
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://conf.researchr.org/home/LCTES-2020#Call-for-Papers'>HTML</a>.
+
+- title: DSD
+  year: 2020
+  id: dsd2020
+  link: https://dsd-seaa2020.um.si/dsd/index.html
+  deadline: '2020-04-01 23:59:59'
+  timezone: Etc/GMT+2
+  date: August 26-28, 2020
+  place: "Portoroz\u030C, Slovenia"
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://dsd-seaa2020.um.si/dsd/CfP.pdf'>PDF</a>.
+
+- title: CASES
+  year: 2020
+  id: cases2020
+  link: https://www.esweek.org/cases/about
+  deadline: '2020-04-04 12:59:59'
+  timezone: Etc/GMT+1
+  date: Oct 11-16, 2019
+  place: Shanghai, CN
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://esweek.org/sites/default/files/CASES_2020_CFP.pdf'>PDF</a>.
+
+- title: CODES+ISSS
+  year: 2020
+  id: codesisss2020
+  link: https://www.esweek.org/codes/about
+  deadline: '2020-04-04 12:59:59'
+  timezone: Etc/GMT+1
+  date: Oct 11-16, 2019
+  place: Shanghai, CN
+  sub: ES
+  note: <b>Call for Papers:</b> <a href='https://esweek.org/sites/default/files/CODES_ISSS_2020_CFP.pdf'>PDF</a>.
