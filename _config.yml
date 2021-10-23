@@ -1,14 +1,14 @@
-title: ES Conference Deadlines
-description: Countdowns to top ES conference deadlines
-author: Abhishek Das
+title: BCB Conference Deadlines
+description: Bioinformatics and Computational Biology
+author: Quan Wei
 
-domain: "ekut-es.github.io"
-baseurl: "/es-deadlines"
+domain: "quanwei233.github.io"
+baseurl: "/bcb-deadlines"
 
 twitter_username: 
 twitter_hashtag: embeddedsystems
-github_username: ekut-es
-github_repo: es-deadlines
+github_username: quanwei233
+github_repo: bcb-deadlines
 
 markdown: kramdown
 ga_id: 
