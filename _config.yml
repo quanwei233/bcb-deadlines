@@ -14,3 +14,5 @@ markdown: kramdown
 ga_id: 
 
 include: ['_pages']
+
+theme: jekyll-theme-architect
