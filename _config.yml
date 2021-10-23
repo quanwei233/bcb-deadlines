@@ -15,4 +15,4 @@ ga_id:
 
 include: ['_pages']
 
-theme: jekyll-theme-tactile
+theme: jekyll-theme-architect
