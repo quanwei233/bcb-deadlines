@@ -1,11 +1,9 @@
 ---
-- name: Embedded Systems (General)
-  sub: ES
-- name: Timing Analysis
-  sub: TA
-- name: Computer Architecture
-  sub: CA
-- name: Low Power
-  sub: LP
-- name: Software Engineering
-  sub: SE
+- name: Bioinformatics
+  sub: BIC
+
+- name: CCF
+  sub: CCF
+
+- name: AI
+  sub: AI
