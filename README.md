@@ -1,6 +1,6 @@
-## ES Deadlines
+## BCB Deadlines
 
-Countdown timers to keep track of a bunch of ES conference deadlines.
+Bioinformatics and Computational Biology conference deadline.
 
 ## Adding/updating a conference
 
