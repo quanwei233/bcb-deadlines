@@ -1,5 +1,16 @@
 
 ---
+- title: BIBM
+  year: 2022
+  id: bibm2022
+  link: 
+  deadline: '2022-08-21 23:59:59'
+  timezone: Etc/GMT+1
+  date: December 6-9, 2022
+  place: Las Vegas, NV, USA
+  sub: BIC
+  note: 
+
 - title: RECOMB-SEQ
   year: 2022
   id: recombseq2022
