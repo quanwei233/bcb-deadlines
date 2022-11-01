@@ -8,7 +8,7 @@
   deadline: '2023-01-19 23:59:59'
   timezone: Etc/GMT+1
   date: July 23-27, 2023
-  place: LYON, - , FRANCE
+  place: LYON,  FRANCE
   sub: BIC
   note: 
 
@@ -19,7 +19,7 @@
   deadline: '2023-01-13 23:59:59'
   timezone: Etc/GMT+1
   date: April 14-15, 2023
-  place: iSTANBUL, -, TURKEY
+  place: iSTANBUL,  TURKEY
   sub: BIC
   note: 
 
@@ -41,7 +41,7 @@
   deadline: '2022-10-14 23:59:59'
   timezone: Etc/GMT+1
   date: April 16-19, 2023
-  place: iSTANBUL, -, TURKEY
+  place: iSTANBUL,  TURKEY
   sub: BIC
   note: 
 
@@ -67,6 +67,17 @@
   sub: BIC
   note: 
 
+- title: ISBRA
+  year: 2022
+  id: isbra2022
+  link: https://mangul-lab-usc.github.io/ISBRA/
+  deadline: '2022-08-08 23:59:59'
+  timezone: Etc/GMT+1
+  date: November 14-17, 2022
+  place: Haifa, Israel
+  sub: BIC
+  note: 
+
 - title: PSB
   year: 2023
   id: psb2023
@@ -74,7 +85,7 @@
   deadline: '2022-08-01 23:59:59'
   timezone: Etc/GMT+1
   date: January 3-7, 2023
-  place: iSTANBUL, -, TURKEY
+  place: iSTANBUL,  TURKEY
   sub: BIC
   note: 
 
