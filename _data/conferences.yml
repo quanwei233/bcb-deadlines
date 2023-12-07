@@ -1,5 +1,49 @@
 
 ---
+- title: ISMB
+  year: 2024
+  id: ismb2024
+  link: https://www.iscb.org/ismb2024/key-dates
+  deadline: '2024-01-25 23:59:59'
+  timezone: Etc/GMT+1
+  date: July 12-16, 2024
+  place: Montreal, Canada
+  sub: BIC
+  note: 
+  
+- title: ECCB
+  year: 2024
+  id: eccb2024
+  link: https://eccb2024.fi/
+  deadline: '2024-XX-XX 23:59:59'
+  timezone: Etc/GMT+1
+  date: Sep 16-20, 2024
+  place: Logomo, Turku, Finland
+  sub: BIC
+  note: 
+
+- title: RECOMB
+  year: 2024
+  id: recomb2024
+  link: https://recomb.org/recomb2024/
+  deadline: '2024-11-03 23:59:59'
+  timezone: Etc/GMT+1
+  date: April 29-May 2, 2024
+  place: Boston, MA, USA
+  sub: BIC
+  note: 
+
+
+- title: PSB
+  year: 2024
+  id: psb2024
+  link: https://psb.stanford.edu/
+  deadline: '2023-08-01 23:59:59'
+  timezone: Etc/GMT+1
+  date: January 3-7, 2024
+  place: Fairmont Orchid, Hawaii
+  sub: BIC
+  note: 
 
 - title: ISMB/ECCB
   year: 2023
@@ -124,16 +168,7 @@
   sub: BIC
   note: 
 
-- title: ISMB
-  year: 2022
-  id: ismb2022
-  link: https://www.iscb.org/ismb2022
-  deadline: '2022-01-13 23:59:59'
-  timezone: Etc/GMT+1
-  date: July 10-14, 2022
-  place: Madison, WI, USA
-  sub: BIC
-  note: 
+
 
 - title: RECOMB
   year: 2022
