@@ -1,37 +1,6 @@
 ## 推荐会议和期刊
 
 ### 1. 期刊
-- S
-
-	- Nature 1区
-	- Nature genetics 1区
-	- Nature genomics 1区
-	- Nature methods
-- T1
-
-	- PNAS 1区 USD2595
-	- Nature comunacations  1区 USD5890
-	- Genome biology  1区 GBP3290
-	- IEEE Journal of Biomedical and Health Informatics 1区 无版面费
-
-- T2
-
-	- iscience 2区 USD3000
-	- NAR 2区 USD2770
-	- Plos computational biology 2区 USD2575
-	- BRIEFINGS IN BIOINFORMATICS 2区 无版面费
-	- GigaScience 2区 GBP1281
-	- GENOMICS PROTEOMICS & BIOINFORMATICS 2区 USD3500
-	- Bioinformatics 3区 USD3618
-
-- T3
-	- TCBB
-	- BMC bioinformatics
-	- BMC genomics
-- T4
-	- JCB
-	- Frontiers in genetics
-
 
 | Tiers | Journal                                                           | 中科院分区 |     版面费      |
 | :---: | :---------------------------------------------------------------- | :---: | :----------: |
