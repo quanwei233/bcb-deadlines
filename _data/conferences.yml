@@ -1,5 +1,16 @@
 
 ---
+- title: ismbECCB
+  year: 2025
+  id: ismbeccb2025
+  link: https://www.iscb.org/ismbeccb2025
+  deadline: '2025-01-23 23:59:59'
+  timezone: Etc/GMT+1
+  date: July 20-24, 2025
+  place: Liverpool, England
+  sub: BIC
+  note: 
+
 - title: ISMB
   year: 2024
   id: ismb2024
