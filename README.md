@@ -20,7 +20,7 @@
 |  T2   | BRIEFINGS IN BIOINFORMATICS                                       |  2区   |   USD3700       |
 |  T2   | GigaScience                                                       |  2区   |   GBP1281    |
 |  T2   | GENOMICS PROTEOMICS & BIOINFORMATICS                              |  2区   |   USD3500    |
-|  T2   | COMPUTERS IN BIOLOGY AND MEDICINE                                 |  2区   |   无版面费/on hold   |
+|  T2   | COMPUTERS IN BIOLOGY AND MEDICINE                                 |  2区   |   无版面费[on hold]   |
 |  T2   | Bioinformatics                                                    |  3区   |   USD3618    |
 |  T3   | IEEE/ACM Transactions on Computational Biology and Bioinformatics |  3区   |      无       |
 |  T3   | BMC bioinformatics                                                |  3区   |   GBP1690    |
