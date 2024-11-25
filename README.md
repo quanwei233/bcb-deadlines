@@ -31,23 +31,15 @@
 
 ### 2. 会议
 会议截至时间[https://quanwei233.github.io/bcb-deadlines](https://quanwei233.github.io/bcb-deadlines)
-- T1 
-	- Research in Computational Molecular Biology（_RECOMB_）  **CCF B**
-	- The annual international conference on Intelligent Systems for Molecular Biology（_ISMB_） **CCF B**
-	- European Conference on Computational Biology（_ECCB_）
-- T2
-	- ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (_ACM-BCB_) **CCF C**
-	- International Conference on Bioinformatics and Biomedicine (_BIBM_) **CCF B**
-	- The Asia Pacific Bioinformatics Conference (_APBC_) **CCF C**
 
-| Tiers | Journal                                                           | CCF |    会议费      |
+| Tiers | Conference                                                           | CCF |    Fee      |
 | :---: | :---------------------------------------------------------------- | :---: | :----------: |
 |   T1   | Research in Computational Molecular Biology（_RECOMB_）            							|  B   |  未知  |
 |   T1    | The annual international conference on Intelligent Systems for Molecular Biology（_ISMB_）                          |  B   |  未知  |
 |   T1    | European Conference on Computational Biology（_ECCB_）                                                  		|  无   |  未知  |
 |   T2    | ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (_ACM-BCB_)                         |  C  |  未知  |
-|   T2   | International Conference on Bioinformatics and Biomedicine (_BIBM_) **CCF B**                                        |  B   |  $800 |
-|   T2   | The Asia Pacific Bioinformatics Conference (_APBC_) **CCF C**                                                        |  C   | 未知 |
+|   T2   | International Conference on Bioinformatics and Biomedicine (_BIBM_)                                        |  B   |  $800 |
+|   T2   | The Asia Pacific Bioinformatics Conference (_APBC_)                                                         |  C   | 未知 |
 
 
 注：会议T1相当于期刊T2，会议T2相当于期刊T3
