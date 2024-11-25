@@ -42,7 +42,7 @@
 |   T2   | The Asia Pacific Bioinformatics Conference (_APBC_)                                                         |  C   | 未知 |
 
 
-注：会议T1相当于期刊T2，会议T2相当于期刊T3
+注：会议T1相当于期刊T2，会议T2相当于期刊T3，未列出CCF A类会议相当于T1会议。
 
 
 ## Adding/updating a conference
