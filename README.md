@@ -25,18 +25,22 @@
 |  T3   | IEEE/ACM Transactions on Computational Biology and Bioinformatics |  3区   |      无       |
 |  T3   | BMC bioinformatics                                                |  3区   |   GBP1690    |
 |  T3   | BMC genomics                                                      |  2区   |   GBP1570    |
+|  T3   | Frontiers in genetics                                             |  3区   |   USD3495    |
+|  T3   | Scientific Reports                                             |  2区   |   USD3495    |
 |  T4   | Journal of Computational Biology                                  |  4区   |      无       |
-|  T4   | Frontiers in genetics                                             |  3区   |   USD3495    |
+
 ### 2. Conference
 会议截至时间[https://quanwei233.github.io/bcb-deadlines](https://quanwei233.github.io/bcb-deadlines)
 - T1 
-	- Research in Computational Molecular Biology（_RECOMB_）
-	- The annual international conference on Intelligent Systems for Molecular Biology（_ISMB_）
+	- Research in Computational Molecular Biology（_RECOMB_）  **CCF B**
+	- The annual international conference on Intelligent Systems for Molecular Biology（_ISMB_） **CCF B**
 	- European Conference on Computational Biology（_ECCB_）
 - T2
-	- ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (_ACM-BCB_)
-	- International Conference on Bioinformatics and Biomedicine (_BIBM_)
-	- The Asia Pacific Bioinformatics Conference (_APBC_)
+	- ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (_ACM-BCB_) **CCF C**
+	- International Conference on Bioinformatics and Biomedicine (_BIBM_) **CCF B**
+	- The Asia Pacific Bioinformatics Conference (_APBC_) **CCF C**
+注：会议T1相当于期刊T2，会议T2相当于期刊T3
+
 
 ## Adding/updating a conference
 
