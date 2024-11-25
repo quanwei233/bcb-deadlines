@@ -26,7 +26,7 @@
 |  T3   | BMC bioinformatics                                                |  3区   |   GBP1690    |
 |  T3   | BMC genomics                                                      |  2区   |   GBP1570    |
 |  T3   | Frontiers in genetics                                             |  3区   |   USD3495    |
-|  T3   | Scientific Reports                                             |  2区   |   USD3495    |
+|  T3   | Scientific Reports                                             |  2区   |   USD2590    |
 |  T4   | Journal of Computational Biology                                  |  4区   |      无       |
 
 ### 2. 会议
