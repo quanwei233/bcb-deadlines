@@ -13,20 +13,21 @@
 |  T1   | Genome biology                                                    |  1区   |   GBP3290    |
 |  T1   | Cell systems                                                      |  1区   |      无       |
 |  T1   | Science advances                                                  |  1区   |   USD4500    |
-|  T1   | IEEE Journal of Biomedical and Health Informatics                 |  1区   |      无       |
-|  T2   | iScience（Cell子刊）                                               |  2区   |   USD3000    |
 |  T2   | NAR                                                               |  2区   |   USD2770    |
-|  T2   | Plos computational biology                                        |  2区   |   USD2575    |
+|  T2   | IEEE Journal of Biomedical and Health Informatics                 |  2区   |      无       |
+|  T2   | IEEE Journal of Biomedical and Engineering                        |  2区   |      无       |
+|  T2   | Bioinformatics                                                    |  3区   |   USD3618    |
 |  T2   | BRIEFINGS IN BIOINFORMATICS                                       |  2区   |   USD3700       |
+|  T2   | Plos computational biology                                        |  2区   |   USD2575    |
 |  T2   | GigaScience                                                       |  2区   |   GBP1281    |
+|  T2   | iScience（Cell子刊）                                               |  2区   |   USD3000    |
 |  T2   | GENOMICS PROTEOMICS & BIOINFORMATICS                              |  2区   |   USD3500    |
 |  T2   | COMPUTERS IN BIOLOGY AND MEDICINE                                 |  2区   |   无版面费[on hold]   |
-|  T2   | Bioinformatics                                                    |  3区   |   USD3618    |
 |  T3   | IEEE/ACM Transactions on Computational Biology and Bioinformatics |  3区   |      无       |
 |  T3   | BMC bioinformatics                                                |  3区   |   GBP1690    |
 |  T3   | BMC genomics                                                      |  2区   |   GBP1570    |
 |  T3   | Frontiers in genetics                                             |  3区   |   USD3495    |
-|  T3   | Scientific Reports                                             |  2区   |   USD2590    |
+|  T3   | Scientific Reports                                                |  2区   |   USD2590    |
 |  T4   | Journal of Computational Biology                                  |  4区   |      无       |
 
 ### 2. 会议
